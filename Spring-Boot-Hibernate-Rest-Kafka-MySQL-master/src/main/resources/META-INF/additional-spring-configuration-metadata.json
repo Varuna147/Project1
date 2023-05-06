@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.hibernate.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.show-sql'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.dialect'"
+  },
+  {
+    "name": "spring.hibernate.scan-package",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.scan-package'"
+  },
+  {
+    "name": "job.kafka.bootstrap-servers",
+    "type": "java.lang.String",
+    "description": "A description for 'job.kafka.bootstrap-servers'"
+  },
+  {
+    "name": "job.kafka.consumer.group-id",
+    "type": "java.lang.String",
+    "description": "A description for 'job.kafka.consumer.group-id'"
+  },
+  {
+    "name": "job.kafka.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'job.kafka.topic'"
+  }
+]}
