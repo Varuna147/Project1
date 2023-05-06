@@ -28,9 +28,9 @@ import com.cyber.response.ResponseStatusCode;
  */
 @RestController
 @RequestMapping(value = "/job")
-public class JobController {
+public class JobController1 {
 
-	private static final Logger log=LogManager.getLogger(JobController.class);
+	//private static final Logger log=LogManager.getLogger(JobController.class);
 
 	@Autowired
 	private JobHelper jobHelper;

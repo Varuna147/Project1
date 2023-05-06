@@ -24,9 +24,9 @@ import com.cyber.helper.UserHelper;
  */
 @RestController
 @RequestMapping(value = "/user")
-public class UserController {
+public class UserController1 {
 
-	private static final Logger log=LogManager.getLogger(UserController.class);
+	//private static final Logger log=LogManager.getLogger(UserController.class);
 
 	@Autowired
 	private UserHelper userHelper;
